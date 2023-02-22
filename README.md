@@ -1,1 +1,1 @@
-# node-express-typescript-seqtup
+# node-express-typescript-setup
